@@ -1,0 +1,39 @@
+
+* {
+  color:black;
+  background: transparent;
+  font-size: 14pt;
+  font-family: serif;
+}
+
+@page {
+  margin: 1in;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 120%;
+}
+
+p {
+  font-size: 80%;
+}
+
+nav {
+  display:none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a[href^="http"]:after {
+  content: " (" attr(href) ") ";
+}
+
+a[href$=".html"] {
+  display: none;
+}
