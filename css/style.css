@@ -2,11 +2,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700|Codystar);
 
 body {
-  background: url("../img/blurred.jpg");
+  background: url(../img/blurred.jpg);
   color: #333;
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
-  /* background-color: #99CCFF; */
 }
 
 
@@ -22,30 +21,13 @@ header h1 {
 }
 
 
-h2 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-  color: #8faeff;
-}
-
-h3 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  color: #f291f8;
-}
-
-address {
-  text-align: center;
-  background-color: #d8e3ff;
-}
-
 #container {
-  background: rgba(252,242,253,0.7);
-  border: 1px solid #f4d6f8;
+  background: rgba(255,255,255,0.5);
   width: 960px;
   margin: 0 auto;
   padding: 2em;
 }
+
 
 nav {
   padding-top: 1em;
@@ -53,11 +35,13 @@ nav {
   text-align: center;
 }
 
+
 nav ul {
   display: inline;
   list-style-type: none;
   padding:0;
 }
+
 
 nav ul li{
   display: inline;
