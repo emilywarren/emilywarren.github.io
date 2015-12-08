@@ -19,6 +19,13 @@ header h1 {
   font-size: 400%;
 }
 
+#container {
+  background: rgba(255,255,255,0.5);
+  width: 960px;
+  margin: 0 auto;
+  padding: 2em;
+}
+
 nav {
   padding-top: 1em;
   padding-bottom: 1em;
