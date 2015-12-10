@@ -48,3 +48,8 @@ nav ul li{
 ul {
   list-style-type: circle;
 }
+
+img.align-center {
+  display: block;
+  margin: 0px auto;
+}
