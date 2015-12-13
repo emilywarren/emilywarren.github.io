@@ -53,3 +53,12 @@ img.align-center {
   display: block;
   margin: 0px auto;
 }
+
+
+img {
+  border: 16px solid #ffffff;
+}
+
+h2 {
+  text-align: left;
+}
