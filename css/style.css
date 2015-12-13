@@ -57,3 +57,7 @@ img.align-center {
   display: block;
   margin: 0px auto;
 }
+
+p {
+  text-align: center;
+}

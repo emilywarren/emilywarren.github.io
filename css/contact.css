@@ -56,3 +56,24 @@ nav ul li{
 ul {
   list-style-type: circle;
 }
+
+
+a {
+  color:#7c3776);
+  text-decoration: none;
+}
+
+
+
+a:visited {
+  color: #7c3776;
+}
+
+a:hover,
+a:focus {
+  color: #a5509d;
+}
+
+a:active {
+  color: #000;
+}

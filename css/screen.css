@@ -25,13 +25,13 @@ header h1 {
 h2 {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  color: #8faeff;
+  color: #4a62d3;
 }
 
 h3 {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  color: #f291f8;
+  color: #e723d5;
 }
 
 address {
@@ -65,4 +65,25 @@ nav ul li{
 
 ul {
   list-style-type: circle;
+}
+
+
+a {
+  color:#7c3776); 
+  text-decoration: none;
+}
+
+
+
+a:visited {
+  color: #7c3776;
+}
+
+a:hover,
+a:focus {
+  color: #a5509d;
+}
+
+a:active {
+  color: #000;
 }
