@@ -1,0 +1,30 @@
+@media (max-width: 320px) {
+
+  body {
+      font-family: sans-serif;
+      font-size: 24px;
+    }
+
+  header h1 {
+  font-size: 125%;
+  line-height: 1.5;
+  }
+
+header span {
+  display: inline;
+}
+
+
+img.mobile {
+  width: 24px;
+  height: auto;
+  vertical-align: middle;
+}
+
+nav {
+  display: left;
+}
+
+
+
+}
